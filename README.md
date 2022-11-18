@@ -1,4 +1,4 @@
-# Java--Reto-de-variables-e-impresi-n
+# Java--Reto-de-variables-e-impresion
 
 
 Reto de variables e impresión en Java
